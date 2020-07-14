@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">BaseDatosSQLite</string>
+    <string name="tbtnRegistra">Registrar</string>
+    <string name="mPrincipal">Menu Principal</string>
+    <string name="toRegistra">Opción de Registro</string>
+    <string name="iNombre">Ingresa Nombre</string>
+    <string name="iEdad">Ingresa Edad</string>
+    <string name="iSexo">Ingresa Sexo</string>
+    <string name="rbtnRegistar">Registra</string>
+    <string name="listaregistros">LISTADO DE CONTACTOS</string>
+    <string name="listaelementos">Lista Usuarios</string>
+    <string name="dinformacion">Informacion del Usuairo</string>
+    <string name="dnombre">Nombre</string>
+    <string name="did">ID</string>
+    <string name="dedad">Edad</string>
+    <string name="dsexo">Sexo</string>
+    <string name="btnactualizad">Actualizar</string>
+    <string name="btneliminard">Eliminar</string>
+</resources>
